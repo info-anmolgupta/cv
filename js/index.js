@@ -11,7 +11,7 @@ function basicInfo() {
             $("#basic-info-div").append('<p> <a href="mailto:' + info.email + '"><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>' + info.email + '</a></p>');
             $("#basic-info-div").append('<p><i class="fa fa-birthday-cake fa-fw w3-margin-right w3-large w3-text-teal"></i>' + info.birthday + '</p>');
             for (var i = 0; i < info.mobiles.length; i++) {
-                var value = '<p><i class="fa fa-volume-control-phone fa-fw w3-margin-right w3-large w3-text-teal"></i><span class="flag-icon flag-icon-' + info.mobiles[i].country + '"></span> ' + info.mobiles[i].number + '</p>';
+                var value = '<p><a href="tel:' + info.mobiles[i].number + '"><i class="fa fa-volume-control-phone fa-fw w3-margin-right w3-large w3-text-teal"></i><span class="flag-icon flag-icon-' + info.mobiles[i].country + '"></span> ' + info.mobiles[i].number + '</a></p>';
                 $("#basic-info-div").append(value);
             }
         }
