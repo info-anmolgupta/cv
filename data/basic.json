@@ -1,0 +1,14 @@
+{
+    "avatar": "anmol_gupta.jpeg",
+    "name": "Mr. Anmol Gupta",
+    "work": "Associate Software Engineer",
+    "address": "Sri Muktsar Sahib, Punjab, India",
+    "email": "info.anmolgupta@gmail.com",
+    "birthday": " 2nd June, 1997",
+    "mobiles": [
+        {
+            "country": "in",
+            "number": "+91-9814889212"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "skill": "C/C++",
+        "percent": 75
+    },
+    {
+        "skill": "Java Core",
+        "percent": 60
+    },
+    {
+        "skill": "HTML",
+        "percent": 90
+    },
+    {
+        "skill": "CSS",
+        "percent": 80
+    },
+    {
+        "skill": "Javascript (ES6)",
+        "percent": 80
+    },
+    {
+        "skill": "Typescript",
+        "percent": 65
+    },
+    {
+        "skill": "React JS",
+        "percent": 85
+    },
+    {
+        "skill": "React Native (Familiar with Redux, Saga, Axios, Thunk etc.)",
+        "percent": 85
+    },
+    {
+        "skill": "Firebase",
+        "percent": 80
+    },
+    {
+        "skill": "GrahpQL (Apollo Client/React Realy)",
+        "percent": 60
+    },
+    {
+        "skill": "Bootstrap",
+        "percent": 60
+    }
+]

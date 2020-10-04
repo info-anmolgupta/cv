@@ -1,0 +1,26 @@
+[
+    {
+        "role": "Associate Software Engineer",
+        "skills": "React Native",
+        "company": "ChicMic, Mohali",
+        "duration": "Aug 2019 ",
+        "current": true,
+        "description": "My designation is an Associate Software Engineer. I am working as a ReactJS & React Native developer developing web, native android, and iOS apps."
+    },
+    {
+        "role": "Internship",
+        "skills": "React JS, React Native",
+        "company": "ChicMic, Mohali",
+        "duration": "January 2019 - July 2019",
+        "current": false,
+        "description": "I have completed my training and worked for Native app development on the React Native framework."
+    },
+    {
+        "role": "Internship",
+        "skills": "Core Java",
+        "company": "CDAC, Mohali",
+        "duration": "June 2017 - July 2017",
+        "current": false,
+        "description": "I have completed 45 days of internship at this intstitute on Core Java and I developed a desktop applicaton for Stock management."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "college": "Baba Farid College of Engineering and Technology, Bathinda, India",
+        "duration": "2015 - 2019",
+        "level": "Bachelor of Technology",
+        "trade": "Computer Science and Engineering"
+    },
+    {
+        "college": "Govt. Sen. Sec. School, Muktsar, Punjab, India",
+        "duration": "2015",
+        "level": "Intermediate in Science (10+2)",
+        "trade": "Intermediate in Science"
+    },
+    {
+        "college": "Sarvhitkari Vidya Mandir School, Punjab, India",
+        "duration": "2013",
+        "level": "School Leaving Certificate (10th)",
+        "trade": ""
+    }
+]
