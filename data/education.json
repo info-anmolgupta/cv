@@ -8,13 +8,13 @@
     {
         "college": "Govt. Sen. Sec. School, Muktsar, Punjab, India",
         "duration": "2015",
-        "level": "",
+        "level": "Intermediate",
         "trade": "Intermediate in Science"
     },
     {
         "college": "Sarvhitkari Vidya Mandir School, Muktsar, Punjab, India",
         "duration": "2013",
-        "level": "",
-        "trade": "Matriculation"
+        "level": "Matriculation",
+        "trade": ""
     }
 ]
