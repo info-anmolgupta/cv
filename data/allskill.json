@@ -1,5 +1,37 @@
 [
     {
+        "skill": "Javascript (ES6)",
+        "percent": 80
+    },
+    {
+        "skill": "React JS",
+        "percent": 85
+    },
+    {
+        "skill": "React Native",
+        "percent": 85
+    },
+    {
+        "skill": "Redux",
+        "percent": 90
+    },
+    {
+        "skill": "Redux-Saga",
+        "percent": 90
+    },
+    {
+        "skill": "Redux-Form",
+        "percent": 90
+    },
+    {
+        "skill": "Firebase",
+        "percent": 80
+    },
+    {
+        "skill": "Cloud Firestore",
+        "percent": 80
+    },
+    {
         "skill": "C/C++",
         "percent": 75
     },
@@ -16,31 +48,7 @@
         "percent": 80
     },
     {
-        "skill": "Javascript (ES6)",
-        "percent": 80
-    },
-    {
         "skill": "Typescript",
         "percent": 65
-    },
-    {
-        "skill": "React JS",
-        "percent": 85
-    },
-    {
-        "skill": "React Native (Familiar with Redux, Saga, Axios, Thunk etc.)",
-        "percent": 85
-    },
-    {
-        "skill": "Firebase",
-        "percent": 80
-    },
-    {
-        "skill": "GrahpQL (Apollo Client/React Realy)",
-        "percent": 60
-    },
-    {
-        "skill": "Bootstrap",
-        "percent": 60
     }
 ]
