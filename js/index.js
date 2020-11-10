@@ -39,7 +39,7 @@ function majorSkills() {
             var info = result;
             $(".major-skill-placeholder").remove();
             for (var i = 0; i < info.length; i++) {
-                var value = '<p>' + info[i].title + '</p>' +
+                var value = '<p>' + info[i].skill + '</p>' +
                     '<div class="w3-light-grey w3-round-xlarge w3-small">' +
                     '<div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:' + info[i].percent + '%">' + info[i].percent + '%</div>' +
                     '</div>';
