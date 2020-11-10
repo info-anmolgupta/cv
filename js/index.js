@@ -35,7 +35,7 @@ function languages() {
 
 function majorSkills() {
     $.ajax({
-        url: "data/majorskill.json", success: function (result) {
+        url: "data/allskill.json", success: function (result) {
             var info = result;
             $(".major-skill-placeholder").remove();
             for (var i = 0; i < info.length; i++) {
