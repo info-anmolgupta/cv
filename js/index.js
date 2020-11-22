@@ -110,8 +110,9 @@ function projects() {
                 if (i == project.length - 1) {
                     hrColor = "white";
                 }
+                let index =`${i+1}.  `
                 var value = '<div class="w3-container">' +
-                    '<h5><b>'+i+1+'.  ' + project[i].title + '</b></h5>' +
+                    '<h5><b>'+index + project[i].title + '</b></h5>' +
                     '<h6 class="w3-text-teal"><b>' + project[i].role + '</b></h6>' +
                     '<h6 class="w3-text-teal"><i class="fa fa-code fa-fw w3-margin-right"></i>' + project[i].skills + '</h6>' +
                     link +
