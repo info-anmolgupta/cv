@@ -9,8 +9,12 @@
     },
     {
         "skill": "React JS",
-        "percent": 85
-    },    
+        "percent": 90
+    },
+    {
+        "skill": "Hooks",
+        "percent": 95
+    },
     {
         "skill": "Redux",
         "percent": 90
@@ -22,10 +26,6 @@
     {
         "skill": "Gatsby",
         "percent": 90
-    },
-    {
-        "skill": "Hooks",
-        "percent": 95
     },
     {
         "skill": "Firebase",
