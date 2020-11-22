@@ -1,122 +1,122 @@
 [
-	{
-		"title": "Collyde",
-		"skills": " React Native, Facebook SDK, Sendbird, Redux, Axios, Socket.io, Redux Saga, Node.js, Mongo DB",
-		"platform": "Android and iOS",
-		"duration": "",
-		"running": false,
-		"link": "https://www.getcollyde.com/",
-		"role":"",
-		"description": "It is a React Native app which provides a platform the user to view list of various shows and then join those groups. By joining the groups of watch parties, the user can then connect with millions of other people having the same shows interests across the world. The app lets the user to have a group or a corner where they can chat with each other and show their liking over each other’s thoughts as well."
-	},
-	{
-		"title": "Frugbi",
-		"skills": "React Native, Push Notifications, Socket.io, Stripe, Google Maps, Axios, Firebase, Redux, Redux Saga, Php, MySql",
-		"platform": "Android and iOS",
-		"duration": "",
-		"running": false,
-		"link": "",
-		"role":"",
-		"description": "It is an app where users can find people in their community and ask/ help them in their tasks. Helpers can request check in and the requester can conform the same with the OTP provided by the helper. Proper time trading management of the task with respect to helpers. Users can chat with their friends and the helpers of the task."
-	},
-	{
-		"title": "Qalorie",
-		"skills": "React Native, Facebook SDK, Google login, Apple login, Firebase, Redux, Fetch, Redux Saga, Node.js & Mongo DB",
-		"platform": "Android and iOS",
-		"duration": "",
-		"running": false,
-		"link": "https://play.google.com/store/apps/details?id=com.qalorieapp",
-		"role":"",
-		"description": "Qalorie is a React Native, US-based app that helps the user to track their daily calorie intakes. The app keeps a detailed yet precise track of the calories consumed and burned out during various meals intake as well as exercise during the day. The app recommends user to maintain calorie level along with other nutrients level and water consumption over a day based on user’s weight and activity levels. This lets the user to have a details idea as well as record of their intakes and burned out calories in order to maintain a healthy and fit lifestyle."
-	},
-	{
-		"title": "Prep2Pass (PWA)",
-		"skills": " React Native, Firebase, Stripe, Redux, Axios, Redux Saga, Php, MySQL",
-		"platform": "Android, iOS and Web",
-		"duration": "",
-		"running": false,
-		"role":"",
-		"link": "https://play.google.com/store/apps/details?id=com.prepare.pass%20",
-		"description": "Prep2PassTM is an education app that helps the user prepare for the SAFE MLO test in a way that makes sure that the user is enjoying and getting challenged at the same time. From a question on flashcards which user can flip, hide, and have on various topics, to challenge another user for global rank, the app is a perfect solution for the user. Focused flashcards help you master the contents faster. These flashcards come with a flip able feature and you can also hide them if you already know the answer to that question."
-	},
-	{
-		"title": "Opus Penpal",
-		"skills": " React Native, Facebook SDK, Axios, Firebase, Realtime Database, Redux, Redux Saga, RealmDB, Php, MySQL.",
-		"platform": "Android and iOS",
-		"duration": "",
-		"running": false,
-		"role":"",
-		"link": "https://play.google.com/store/apps/details?id=com.opus.app",
-		"description": "Opus, uniting penpals worldwide! Searching and connecting with like-minded penpals has never been this easy. Search Penpals from all over the world just by keywords. For eg: Looking for someone to chat on 'Calligraphy'? Just type 'Calligraphy' in the search bar and see the listing of all profiles who are interested in calligraphy. It is that easy! Rate your penpals, write testimonies about them, and with just one click get connected with them. Create your own profile by logging with Facebook, add/edit your tags and decide on which keyword you should be found. Last but not least, stay connected, get updates and build an everlasting friendship with Penpals."
-	},
-	{
-		"title": "Pop Doctor (LinkedIn Clone)",
-		"skills": " React Native, Axios, Firebase, Deep linking, Redux, Redux-Form, Redux-Saga, Socket.io, Node.js & MySql",
-		"platform": "Android and iOS",
-		"duration": "",
-		"running": false,
-		"role":"",
-		"link": "",
-		"description": "Pop Doctor is a doctor’s network where doctors can post feeds and can follow other doctors. They can search for jobs and apply for jobs. With the help of this app, doctors can join, create groups, and can have real-time chat with friends. They can also share posts in-app and on other apps as well. Users can find other people and friends on the Pop doctor. They can also create groups and ask their friends to join the group. You can also like groups created by someone else. With Pop Doctor, you can find the companies their location, number of employees working in a company, address, and other details. And also you can follow or unfollow them on your profile. Pop Doctor also help users to find jobs. When the user clicks on the Find job tab, where they can find jobs, saved jobs and applied for jobs. Users can search for jobs with the keyword, job title, and company name and by selecting a specific industry."
-	},
-	{
-		"title": "Total Sehat (PWA, TWA )",
-		"skills": " React.js, Gatsby, Redux, Strapi, Graphql, Axios, Node.js & Mongo DB, AWS s3 bucket",
-		"platform": "Android and Web",
-		"duration": "",
-		"running": false,
-		"role":"",
-		"link": "https://totalsehat.com/",
-		"description": "TotalSehat is a progressive web app (PWA). It contains articles regarding health, diet, medicines, and many more. This website covers all facets of physical and mental health openly to help you with health issues and problems. The portal is extremely user friendly and designed in a way that anyone can go through the articles and thus help themselves on their own. One can look for the doctors and hospitals in their locality, along with the list of doctors working in any particular hospital. Not only, this the app lets you book appointments from the same portal. Users can keep in touch with health news and can also get tips related to diet, medicines, and health."
-	},
-	{
-		"title": "Bluebox Task Track",
-		"skills": " React.js, Redux, Axios, Redux-Saga, Graphs, Node.js & Mongo DB, AWS s3 bucket",
-		"platform": "Web",
-		"duration": "",
-		"running": false,
-		"role":"",
-		"link": "https://company.tasktrackapp.com",
-		"description": "Task Track is basically a resource utilization app. This web app lets the admin add and manipulate the available Staff and Equipment. Admin can also invite supervisors thus giving access to supervisors to log in through the app. A detailed graphical representation of resource utilization on a monthly basis or of the past 30 days is displayed, thereby giving better insights to Admin. All you need to do to take control of your task management is to install the Task Tracker. One can easily add to-dos in the given tasks and can thus start managing their to-do list on the go with this app. The key feature of Task tracker is that it acts as a basic tool to manage your projects and is super easy to use too. Also, management is easier as the app gives you better insights into where and on what tasks were your resources working, how much time they spent on each task plus what were their activities."
-	},
-	{
-		"title": "wTask",
-		"skills": " React Native, Firebase, Redux, Redux Saga, Axios, Node.js & Mongo DB",
-		"platform": "Android and iOS",
-		"duration": "",
-		"running": false,
-		"role":"",
-		"link": "https://play.google.com/store/apps/details?id=com.wa_task_manager",
-		"description": "It is a productivity tool to ensure that your to-dos or tasks are clearly and efficiently tracked and managed. This app lets users create multiple yet separate projects. Users can also create specific tasks under each such project. The main feature is that it automatically syncs your contacts and thus lets you add any of those contacts in your newly created or even existing teams under the projects created. Not only this but Users can also add new contacts in the teams. The app lets you upload documents related to the projects and also one can create different versions of the uploaded documents which gives a better and clearer understanding of the project and the dedicated tasks. Users can add tags to the tasks according to their requirements and will. Moreover, these tasks can be filtered based on team members or the tags attached to the tasks. Another interesting feature about the app is that it lets you share your tasks on WhatsApp which also enables you to mark the task done with just a click."
-	},
-	{
-		"title": "Cussbeli Social Selling",
-		"skills": " React Native, Redux, Redux Saga, Loopback, MidTrans, Firebase, Axios",
-		"platform": "Android and iOS",
-		"duration": "",
-		"running": false,
-		"role":"",
-		"link": "https://play.google.com/store/apps/details?id=com.social_selling.app",
-		"description": "Cussbeli Social Selling is actually a reselling app. This app lets a user share the products as listed by the Seller on social media platforms like WhatsApp or Instagram. The reseller can generate an invoice after add price in the initial price quoted by the reseller as a cost for his/her own reselling. The product when shared goes to the customer with the new price. The buyer can thereby view the invoice and can purchase the product. Right from the purchase of the product to the delivery the entire process is tracked and managed by the Admin panel. Also, the entire commission amount is directly transferred to the reseller's registered account number on a monthly basis. Not only this, but resellers can purchase products for his/her own self."
-	},
-	{
-		"title": "Ultimate Athlete Program",
-		"skills": "  React Native, Graphql, Apollo, Firebase, Redux, Redux Saga, Node.js & Mongo DB",
-		"platform": "Android, iOS and Web",
-		"duration": "",
-		"running": false,
-		"role":"",
-		"link": "https://play.google.com/store/apps/details?id=com.ultyresults.app",
-		"description": "It is an app for android and iOS platform where user can get suggested workout schedule along with the workout instructions and video reference. User's day workout is being tracked."
-	},
-	{
-		"title": "Be My Guest",
-		"skills": "  React Native, Push Notifications, Google Maps, Socket.io, Firebase, Redux, Redux Saga, Node.js & Mongo DB",
-		"platform": "Android and iOS",
-		"duration": "",
-		"running": false,
-		"role":"",
-		"link": "",
-		"description": "It is a Tinder like app for both android and iOS users to offer different offers like movies, exibitions, dinner, and many more to eachother. It has matching functionality like Tinder which allows users to chat each other."
-	}
+  {
+    "title": "Collyde",
+    "skills": " React Native, Facebook SDK, Sendbird, Redux, Axios, Socket.io, Redux Saga, Node.js, MongoDB",
+    "platform": "Android and iOS",
+    "duration": "",
+    "running": false,
+    "link": "https://www.getcollyde.com/",
+    "role": "",
+    "description": "It is a React Native app which provides a platform the user to view list of various shows and then join those groups. By joining the groups of watch parties, the user can then connect with millions of other people having the same shows interests across the world. The app lets the user to have a group or a corner where they can chat with each other and show their liking over each other’s thoughts as well."
+  },
+  {
+    "title": "Frugbi",
+    "skills": "React Native, Push Notifications, Socket.io, Stripe, Google Maps, Axios, Firebase, Redux, Redux Saga, Php, MySql",
+    "platform": "Android and iOS",
+    "duration": "",
+    "running": false,
+    "link": "",
+    "role": "",
+    "description": "It is an app where users can find people in their community and ask/ help them in their tasks. Helpers can request check in and the requester can conform the same with the OTP provided by the helper. Proper time trading management of the task with respect to helpers. Users can chat with their friends and the helpers of the task."
+  },
+  {
+    "title": "Qalorie",
+    "skills": "React Native, Facebook SDK, Google login, Apple login, Firebase, Redux, Fetch, Redux Saga, Node.js & MongoDB",
+    "platform": "Android and iOS",
+    "duration": "",
+    "running": false,
+    "link": "https://play.google.com/store/apps/details?id=com.qalorieapp",
+    "role": "",
+    "description": "Qalorie is a React Native, US-based app that helps the user to track their daily calorie intakes. The app keeps a detailed yet precise track of the calories consumed and burned out during various meals intake as well as exercise during the day. The app recommends user to maintain calorie level along with other nutrients level and water consumption over a day based on user’s weight and activity levels. This lets the user to have a details idea as well as record of their intakes and burned out calories in order to maintain a healthy and fit lifestyle."
+  },
+  {
+    "title": "Prep2Pass (PWA)",
+    "skills": " React Native, Firebase, Stripe, Redux, Axios, Redux Saga, Php, MySQL",
+    "platform": "Android, iOS and Web",
+    "duration": "",
+    "running": false,
+    "role": "",
+    "link": "https://play.google.com/store/apps/details?id=com.prepare.pass%20",
+    "description": "Prep2PassTM is an education app that helps the user prepare for the SAFE MLO test in a way that makes sure that the user is enjoying and getting challenged at the same time. From a question on flashcards which user can flip, hide, and have on various topics, to challenge another user for global rank, the app is a perfect solution for the user. Focused flashcards help you master the contents faster. These flashcards come with a flip able feature and you can also hide them if you already know the answer to that question."
+  },
+  {
+    "title": "Opus Penpal",
+    "skills": " React Native, Facebook SDK, Axios, Firebase, Realtime Database, Redux, Redux Saga, RealmDB, Php, MySQL.",
+    "platform": "Android and iOS",
+    "duration": "",
+    "running": false,
+    "role": "",
+    "link": "https://play.google.com/store/apps/details?id=com.opus.app",
+    "description": "Opus, uniting penpals worldwide! Searching and connecting with like-minded penpals has never been this easy. Search Penpals from all over the world just by keywords. For eg: Looking for someone to chat on 'Calligraphy'? Just type 'Calligraphy' in the search bar and see the listing of all profiles who are interested in calligraphy. It is that easy! Rate your penpals, write testimonies about them, and with just one click get connected with them. Create your own profile by logging with Facebook, add/edit your tags and decide on which keyword you should be found. Last but not least, stay connected, get updates and build an everlasting friendship with Penpals."
+  },
+  {
+    "title": "Pop Doctor (LinkedIn Clone)",
+    "skills": " React Native, Axios, Firebase, Deep linking, Redux, Redux-Form, Redux-Saga, Socket.io, Node.js & MySql",
+    "platform": "Android and iOS",
+    "duration": "",
+    "running": false,
+    "role": "",
+    "link": "",
+    "description": "Pop Doctor is a doctor’s network where doctors can post feeds and can follow other doctors. They can search for jobs and apply for jobs. With the help of this app, doctors can join, create groups, and can have real-time chat with friends. They can also share posts in-app and on other apps as well. Users can find other people and friends on the Pop doctor. They can also create groups and ask their friends to join the group. You can also like groups created by someone else. With Pop Doctor, you can find the companies their location, number of employees working in a company, address, and other details. And also you can follow or unfollow them on your profile. Pop Doctor also help users to find jobs. When the user clicks on the Find job tab, where they can find jobs, saved jobs and applied for jobs. Users can search for jobs with the keyword, job title, and company name and by selecting a specific industry."
+  },
+  {
+    "title": "Total Sehat (PWA, TWA )",
+    "skills": " React.js, Gatsby, Redux, Strapi, Graphql, Axios, Node.js & MongoDB, AWS s3 bucket",
+    "platform": "Android and Web",
+    "duration": "",
+    "running": false,
+    "role": "",
+    "link": "https://totalsehat.com/",
+    "description": "TotalSehat is a progressive web app (PWA). It contains articles regarding health, diet, medicines, and many more. This website covers all facets of physical and mental health openly to help you with health issues and problems. The portal is extremely user friendly and designed in a way that anyone can go through the articles and thus help themselves on their own. One can look for the doctors and hospitals in their locality, along with the list of doctors working in any particular hospital. Not only, this the app lets you book appointments from the same portal. Users can keep in touch with health news and can also get tips related to diet, medicines, and health."
+  },
+  {
+    "title": "Bluebox Task Track",
+    "skills": " React.js, Redux, Axios, Redux-Saga, Graphs, Node.js & MongoDB, AWS s3 bucket",
+    "platform": "Web",
+    "duration": "",
+    "running": false,
+    "role": "",
+    "link": "https://company.tasktrackapp.com",
+    "description": "Task Track is basically a resource utilization app. This web app lets the admin add and manipulate the available Staff and Equipment. Admin can also invite supervisors thus giving access to supervisors to log in through the app. A detailed graphical representation of resource utilization on a monthly basis or of the past 30 days is displayed, thereby giving better insights to Admin. All you need to do to take control of your task management is to install the Task Tracker. One can easily add to-dos in the given tasks and can thus start managing their to-do list on the go with this app. The key feature of Task tracker is that it acts as a basic tool to manage your projects and is super easy to use too. Also, management is easier as the app gives you better insights into where and on what tasks were your resources working, how much time they spent on each task plus what were their activities."
+  },
+  {
+    "title": "wTask",
+    "skills": " React Native, Firebase, Redux, Redux Saga, Axios, Node.js & MongoDB",
+    "platform": "Android and iOS",
+    "duration": "",
+    "running": false,
+    "role": "",
+    "link": "https://play.google.com/store/apps/details?id=com.wa_task_manager",
+    "description": "It is a productivity tool to ensure that your to-dos or tasks are clearly and efficiently tracked and managed. This app lets users create multiple yet separate projects. Users can also create specific tasks under each such project. The main feature is that it automatically syncs your contacts and thus lets you add any of those contacts in your newly created or even existing teams under the projects created. Not only this but Users can also add new contacts in the teams. The app lets you upload documents related to the projects and also one can create different versions of the uploaded documents which gives a better and clearer understanding of the project and the dedicated tasks. Users can add tags to the tasks according to their requirements and will. Moreover, these tasks can be filtered based on team members or the tags attached to the tasks. Another interesting feature about the app is that it lets you share your tasks on WhatsApp which also enables you to mark the task done with just a click."
+  },
+  {
+    "title": "Cussbeli Social Selling",
+    "skills": " React Native, Redux, Redux Saga, Loopback, MidTrans, Firebase, Axios",
+    "platform": "Android and iOS",
+    "duration": "",
+    "running": false,
+    "role": "",
+    "link": "https://play.google.com/store/apps/details?id=com.social_selling.app",
+    "description": "Cussbeli Social Selling is actually a reselling app. This app lets a user share the products as listed by the Seller on social media platforms like WhatsApp or Instagram. The reseller can generate an invoice after add price in the initial price quoted by the reseller as a cost for his/her own reselling. The product when shared goes to the customer with the new price. The buyer can thereby view the invoice and can purchase the product. Right from the purchase of the product to the delivery the entire process is tracked and managed by the Admin panel. Also, the entire commission amount is directly transferred to the reseller's registered account number on a monthly basis. Not only this, but resellers can purchase products for his/her own self."
+  },
+  {
+    "title": "Ultimate Athlete Program",
+    "skills": "  React Native, Graphql, Apollo, Firebase, Redux, Redux Saga, Node.js & MongoDB",
+    "platform": "Android, iOS and Web",
+    "duration": "",
+    "running": false,
+    "role": "",
+    "link": "https://play.google.com/store/apps/details?id=com.ultyresults.app",
+    "description": "It is an app for android and iOS platform where user can get suggested workout schedule along with the workout instructions and video reference. User's day workout is being tracked."
+  },
+  {
+    "title": "Be My Guest",
+    "skills": "  React Native, Push Notifications, Google Maps, Socket.io, Firebase, Redux, Redux Saga, Node.js & MongoDB",
+    "platform": "Android and iOS",
+    "duration": "",
+    "running": false,
+    "role": "",
+    "link": "",
+    "description": "It is a Tinder like app for both android and iOS users to offer different offers like movies, exibitions, dinner, and many more to eachother. It has matching functionality like Tinder which allows users to chat each other."
+  }
 ]
