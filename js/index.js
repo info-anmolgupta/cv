@@ -111,7 +111,7 @@ function projects() {
                     hrColor = "white";
                 }
                 var value = '<div class="w3-container">' +
-                    '<h5><b>' + project[i].title + '</b></h5>' +
+                    '<h5><b>'+index+1+'.  ' + project[i].title + '</b></h5>' +
                     '<h6 class="w3-text-teal"><b>' + project[i].role + '</b></h6>' +
                     '<h6 class="w3-text-teal"><i class="fa fa-code fa-fw w3-margin-right"></i>' + project[i].skills + '</h6>' +
                     link +
