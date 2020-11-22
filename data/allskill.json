@@ -1,16 +1,16 @@
 [
     {
-        "skill": "Javascript (ES6)",
-        "percent": 80
+        "skill": "Javascript",
+        "percent": 95
+    },
+    {
+        "skill": "React Native",
+        "percent": 90
     },
     {
         "skill": "React JS",
         "percent": 85
-    },
-    {
-        "skill": "React Native",
-        "percent": 85
-    },
+    },    
     {
         "skill": "Redux",
         "percent": 90
@@ -20,35 +20,27 @@
         "percent": 90
     },
     {
-        "skill": "Redux-Form",
+        "skill": "Gatsby",
         "percent": 90
+    },
+    {
+        "skill": "Hooks",
+        "percent": 95
     },
     {
         "skill": "Firebase",
+        "percent": 85
+    },
+    {
+        "skill": "Google Cloud Platform",
         "percent": 80
     },
     {
-        "skill": "Cloud Firestore",
-        "percent": 80
+        "skill": "Google Maps",
+        "percent": 95
     },
     {
-        "skill": "C/C++",
-        "percent": 75
-    },
-    {
-        "skill": "Java Core",
-        "percent": 60
-    },
-    {
-        "skill": "HTML",
+        "skill": "Git",
         "percent": 90
-    },
-    {
-        "skill": "CSS",
-        "percent": 80
-    },
-    {
-        "skill": "Typescript",
-        "percent": 65
     }
 ]
