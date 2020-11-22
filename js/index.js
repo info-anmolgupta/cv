@@ -116,7 +116,6 @@ function projects() {
                     '<h6 class="w3-text-teal"><b>' + project[i].role + '</b></h6>' +
                     '<h6 class="w3-text-teal"><i class="fa fa-code fa-fw w3-margin-right"></i>' + project[i].skills + '</h6>' +
                     link +
-                    '<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>' + duration + '</h6>' +
                     '<p><i class="fa fa-quote-left fa-fw w3-text-teal w3-margin-right"></i>' + project[i].description + '</p>' +
                     '<hr style="border-color:' + hrColor + '"/>' +
                     '</div>';
