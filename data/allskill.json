@@ -24,6 +24,10 @@
         "percent": 90
     },
     {
+        "skill": "Code Push",
+        "percent": 95
+    },
+    {
         "skill": "Gatsby",
         "percent": 90
     },
@@ -38,6 +42,10 @@
     {
         "skill": "Google Maps",
         "percent": 95
+    },
+    {
+        "skill": "zookeeper & Hansel",
+        "percent": 90
     },
     {
         "skill": "Git",
