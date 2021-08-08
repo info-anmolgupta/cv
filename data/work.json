@@ -1,10 +1,18 @@
 [
-    {
-        "role": "Associate Software Engineer (React Native & React Js Developer)",
-        "skills": "React Native | React Js | JavaScript | Firebase | Hooks | Redux | Git | Gatsby | Redux-Saga | Recoil | Google Cloud Platform | Push Notifications",
-        "company": "ChicMic, Mohali",
-        "duration": "Jan 2019 ",
+     {
+        "role": "Software Development Engineer-II",
+        "skills": "React Native | React Js | JavaScript | Firebase | Hooks | Redux | Git | Gatsby | Redux-Saga | Code Push | Google Cloud Platform | Push Notifications",
+        "company": "Bangalore Karnataka",
+        "duration": "Feb 2021",
         "current": true,
+         "description": ""
+    },
+    {
+        "role": "Software Engineer (React Native & React Js Developer)",
+        "skills": "React Native | React Js | JavaScript | Firebase | Hooks | Redux | Git | Gatsby | Redux-Saga | Google Cloud Platform | Push Notifications",
+        "company": "ChicMic, Mohali",
+        "duration": "Jan 2019 to Feb 2021",
+        "current": false,
         "description": "Roles and Responsibilities: <ul> <li>Developing applications which are responsive and provide a rich user experience across iOS and Android mobile platforms.</li> <li>Building scalable and optimised architectures of react-native projects.</li> <li>Writing clean, efficient and optimised code utilising the latest ECMAscript for react-native applications.</li> <li>Writing Unit test cases for code.</li> <li>Developing projects in an agile software development environment, participate in sprint planning, task breakdown and daily stand ups.</li> <li>Constant client communications for requirements gathering and tasks verification as well as assessments.</li> <li>Project demonstrations to clients as well reports preparations.</li></ul>"
     }
 ]
